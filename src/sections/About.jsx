@@ -56,7 +56,7 @@ const About = () => {
           </div>
         </div>
 
-        {/* Right: Profile Image with enhanced styling */}
+        
         <motion.div
           initial={{ y: 20, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}

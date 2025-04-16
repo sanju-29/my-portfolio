@@ -11,7 +11,7 @@ import {
 } from "react-icons/fa";
 
 const Contact = () => {
-  const resumeLink = "/resume.pdf.pdf"; // Make sure this file is in the public folder
+  const resumeLink = "/resume.pdf.pdf"; 
 
   return (
     <motion.section

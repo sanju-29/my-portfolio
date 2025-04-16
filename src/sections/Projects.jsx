@@ -39,7 +39,7 @@ const Projects = () => {
           </p>
         </div>
 
-        {/* Project 3 - Portfolio Website */}
+        {/* Project 3  */}
         <div className="project bg-white dark:bg-gray-800 shadow-md p-6 rounded-lg">
           <h3 className="text-2xl font-semibold mb-2 dark:text-white">Personal Portfolio Website</h3>
           <p className="text-gray-700 dark:text-gray-300">
@@ -56,7 +56,7 @@ const Projects = () => {
           </a>
         </div>
 
-        {/* Project 4 - LIC Registration Form */}
+        {/* Project 4 */}
         <div className="project bg-white dark:bg-gray-800 shadow-md p-6 rounded-lg">
           <h3 className="text-2xl font-semibold mb-2 dark:text-white">LIC Insurance Registration Form</h3>
           <p className="text-gray-700 dark:text-gray-300">
