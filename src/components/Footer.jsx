@@ -36,7 +36,7 @@ const Footer = () => {
 
       
         <p className="text-gray-600 dark:text-gray-400 text-center md:text-left">
-          © 2025 MyPortfolio. All rights reserved. | Bengaluru, India 🇮🇳
+          © MyPortfolio. All rights reserved. | Bengaluru, India 🇮🇳
         </p>
       </div>
     </footer>
